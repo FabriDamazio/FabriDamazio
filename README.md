@@ -1,6 +1,6 @@
 ### Hello, I'm Fabricio Damazio, a.k.a. Fabri
 
-- 🔭 I’m currently working on The ultimate Free Open Source Solution to learn programming, [AdaCodeStudio](https://github.com/Ada-Code-Studio/AdaCodeStudio).
+- 🔭 I’m currently looking for a pet project.
 
 #### 🛠 Tech Stack
 
